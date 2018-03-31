@@ -5,7 +5,7 @@ L'app est en Xamarin.Forms
 Elle utilise le design pattern MVVM.
 Elle est compatible iOS et Android.
 
-Pour l'utilisée :
+Pour l'utiliser :
 
 Cloner le repo
 Lancer la solution avec Visual Studio 2017 ayant la partie mobile installée
